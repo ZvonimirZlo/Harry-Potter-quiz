@@ -1,2 +1,2 @@
 # Harry-Potter-quiz
-Harry Potter quiz in C++
+Harry Potter quiz in C++;
